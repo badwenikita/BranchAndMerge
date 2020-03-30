@@ -7,3 +7,6 @@ branch and merge practice
 Edited from : Local repo -> local master branch
 Output :- pull aborted. Please commit ur changes or stash them before you merge.
 Solution :- git add, git commit, git pull, then finally git push.
+
+4. SC 4 :- Doing some changes in remote master branch and commit these changes. From local checkout remote/master and check remote repo changes in local computer.
+Edited from :- Remote repo -> master branch
