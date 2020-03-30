@@ -7,4 +7,3 @@ branch and merge practice
 Edited from : Local repo -> local master branch
 Output :- pull aborted. Please commit ur changes or stash them before you merge.
 Solution :- git add, git commit, git pull, then finally git push.
-
